@@ -15,4 +15,4 @@ kube-proxy-kjcpf                 1/1     Running   0          10m
 kube-scheduler-master            1/1     Running   0          9m44s
 ```
 
-Hier sehen wir schon deutlich die Master Komponenten. Unter anderem der apiserver den wir uns im nächsten Step genauer ansehen.
+Hier sehen wir schon deutlich die Master Komponenten. Unter anderem der `kube-apiserver-master` den wir uns im nächsten Step genauer ansehen.
